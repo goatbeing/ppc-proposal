@@ -9,6 +9,7 @@ It's important to note that running the script won't be sufficient as the databa
 
 ## Summary
 - The Vision database is outdated and it's causing inconsistency between names across Prepunk categories.
+- Discord/Website/X links are not correct and not owned by us. This can cause security concerns if anything malicous is hosted/shared on those links.
 - It includes incorrect names that are not part of the Prepunk Club.
 - A total of **1,328** names/hashes are missing.
 - Prepunk (YES/NO) Filters not functioning right on Vision due to this.
